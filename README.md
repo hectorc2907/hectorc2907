@@ -1,1 +1,1 @@
-![](https://github.com/hectorc2907/hectorc2907/blob/dev/img/fondo-img.jpg)
+![](https://github.com/hectorc2907/hectorc2907/blob/dev/img/fondoimg.PNG)
