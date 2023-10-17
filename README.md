@@ -4,8 +4,8 @@
 
 Aquí hay algunas de las tecnologías con las que trabajo:
 
-![HTML](https://example.com/images/html.png)
-![CSS](https://example.com/images/css.png)
-![JavaScript](https://example.com/images/javascript.png)
-![React.js](https://example.com/images/react.png)
-![Node.js](https://example.com/images/nodejs.png)
+![HTML](https://github.com/hectorc2907/hectorc2907/blob/dev/img/iconosTecnologias/html.png)
+![CSS](https://github.com/hectorc2907/hectorc2907/blob/dev/img/iconosTecnologias/css.png)
+![JavaScript](https://github.com/hectorc2907/hectorc2907/blob/dev/img/iconosTecnologias/JavaScript.png)
+![React.js](https://github.com/hectorc2907/hectorc2907/blob/dev/img/iconosTecnologias/React.png)
+![Node.js](https://github.com/hectorc2907/hectorc2907/blob/dev/img/iconosTecnologias/Node.png)
