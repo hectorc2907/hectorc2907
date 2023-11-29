@@ -1,4 +1,4 @@
-![](https://github.com/hectorc2907/hectorc2907/blob/dev/img/fondoimg.PNG)
+![](https://github.com/hectorc2907/hectorc2907/blob/dev/img/fondoimg3.PNG)
 
 ## Tecnologías
 
