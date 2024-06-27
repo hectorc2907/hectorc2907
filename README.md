@@ -64,8 +64,15 @@
   </a>
 </li>
 
-	
+<br>
+
+<li>
+  <a href="https://x.com/HClessi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter | X-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-bottom: 5px;" />
+  </a>
+</li>
 </ul>
+
 </div>
 
 <br>
