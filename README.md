@@ -17,12 +17,10 @@
 - **Language Development**:
  
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 - **Front-End Development**:
 
    ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-   ![Astro](https://img.shields.io/badge/Astro-FF5A60?style=for-the-badge&logo=astro&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -38,7 +36,6 @@
 - **Database**:
     
     ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Others Technologies**:
 
@@ -78,14 +75,6 @@
 <li>
   <a href="https://www.instagram.com/hectorc2907/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23EA4335.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
-  </a>
-</li>
-
-<br>
-
-<li>
-  <a href="https://x.com/HClessi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter | X-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-bottom: 5px;" />
   </a>
 </li>
 </ul>
